@@ -23,3 +23,8 @@ que ajudam a mapear propriedades de classe para campos JSON.
 
 - Usamos "< T >" T para dizer que esperamos um tipo genérico
 - A classe recebe um json e uma classe e converte op json na classe indicada
+
+### Na classe Dados Temporada
+
+- Utilizamos list < DadosEpisodio > para exibir os dados de todos os episódios usando a classe
+DadosEpisodio que pega os detalhes de cada episodio
